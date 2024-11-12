@@ -9,7 +9,8 @@
 
 ###### [2. Live Performance](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/1.%20Live%20Performance%20Data.md#cme-futures-live-performance)
 
-![image020](https://github.com/user-attachments/assets/afbb9650-4ced-4dc9-8a01-7f3ad6d16f11)
+![image](https://github.com/user-attachments/assets/9481c5a7-bfe2-4d58-a232-5ecb866e7995)
+
 
 </br>
 
