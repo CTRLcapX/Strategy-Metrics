@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/906400fd-936b-4728-bce9-f7a82ffaed0f)
 
 
-###### [2. Live Performance](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/1.%20Live%20Performance%20Data.md#cme-futures-live-performance)
+###### [2. Live Performance](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Live%20Performance%20Data.md#2--cme-futures-live-performance)
 
 ![image](https://github.com/user-attachments/assets/9481c5a7-bfe2-4d58-a232-5ecb866e7995)
 
