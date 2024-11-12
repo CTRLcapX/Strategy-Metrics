@@ -2,7 +2,7 @@
 
 ###### [1.&ensp; Backtesting Outputs](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting.md#backtesting-system-performance)
 
-##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [v1. FR63](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#blotter-1-fr63)  &ensp; &ensp; [v2. FR75](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#system-2-fr75) &ensp; &ensp; [v3. FR50](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#system-3-fr50)
+##### &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; [v1. FR63](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#blotter-1-fr63)  &ensp; &ensp; [v2. FR75](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#system-2-fr75) &ensp; &ensp; [v3. FR50](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#system-3-fr50)
 
 ![image](https://github.com/user-attachments/assets/906400fd-936b-4728-bce9-f7a82ffaed0f)
 
