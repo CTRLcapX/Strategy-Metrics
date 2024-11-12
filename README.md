@@ -19,20 +19,3 @@
 
 ![image](https://github.com/user-attachments/assets/bb696884-46e9-4db2-9025-90ae8dd3910e)
 
-
-<pre>
-  
-  "Requested" that I send "Signals" thereafter causing concern(s) as implied by the terms in my contract.
-  
-  $2.5MM/ Annum. may have very easily been generated overseas, perhaps the greater of $7MM. 
-  
-  Not worth my time to follow that path as they work from many different Countries all over the World.
-  
-  -- Certain of which can not be Adjudicated or "Courted" here from the United States.
-  
-</pre>
-
-![image](https://github.com/user-attachments/assets/c6dbf448-db81-459c-9025-3cf43aa96110)
-
-
-## SET TO "SIGNAL ONLY" ON OR AROUND NOVEMBER 3RD, 2024    
