@@ -17,6 +17,7 @@
 
 ###### [3. Hyperplane Mechanics](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/3.%20Hyperplane%20Mechanics.md#hyperplane-mechanics)
 
+![image](https://github.com/user-attachments/assets/bb696884-46e9-4db2-9025-90ae8dd3910e)
 
 
 <pre>
