@@ -19,3 +19,6 @@
 
 ![image](https://github.com/user-attachments/assets/bb696884-46e9-4db2-9025-90ae8dd3910e)
 
+
+###### [4. Signal Processing](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#4--signal-only-mode)
+
