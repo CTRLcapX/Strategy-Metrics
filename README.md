@@ -33,8 +33,3 @@
 
 
 ## SET TO "SIGNAL ONLY" ON OR AROUND NOVEMBER 3RD, 2024    
-
-
-## EXAMPLE LIVE RISK MANAGEMENT CONTROL
-
-![image1](https://github.com/user-attachments/assets/3bb2e602-479c-49b2-a38e-05400749cca5)
