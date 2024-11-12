@@ -11,7 +11,7 @@
 
 ###### [2. Backtesting](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting.md#backtesting-system-performance)
 
-##### [  - SCALE 1](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#blotter-1-fr63) </br> [  - SCALE 2](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#system-2-fr75)
+##### [v1. FR63](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#blotter-1-fr63)  [v2. FR75](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting%20Blotter.md#system-2-fr75)
 
 
 
