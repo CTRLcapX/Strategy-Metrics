@@ -9,11 +9,25 @@
 ![image](https://github.com/user-attachments/assets/1171c720-9b5e-465a-8276-5eab2bfe8441)
 
 
-## HISTORICAL DATABASES FROM 2021-PRESENT FOR ALL ASSETS IN THE SCOPE
+<pre>
+  
+  "Requested" that I send "Signals" thereafter causing concern(s) as implied by the terms in my contract.
+  
+  $2.5MM/ Annum. may have very easily been generated overseas, perhaps the greater of $7MM. 
+  
+  Not worth my time to follow that path as they work from many different Countries all over the World.
+  
+  -- Certain of which can not be Adjudicated or "Courted" here from the United States.
+  
+</pre>
 
-![image003](https://github.com/user-attachments/assets/7b6a3c81-1b6e-4f92-9a89-f3b792a3a221)
+![image](https://github.com/user-attachments/assets/c6dbf448-db81-459c-9025-3cf43aa96110)
 
 
+## SET TO "SIGNAL ONLY" ON OR AROUND NOVEMBER 3RD, 2024    
+> AS REQUESTED BY MANAGEMENT.
+
+see also: NON_COMPETE_WAIVER_MA
 
 ## EXAMPLE LIVE RISK MANAGEMENT CONTROL
 
