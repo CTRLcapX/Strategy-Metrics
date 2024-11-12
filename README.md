@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/1171c720-9b5e-465a-8276-5eab2bfe8441)
 
 
-###### [2. Backtesting]https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting.md#backtesting-system-performance
+###### [2. Backtesting](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Backtesting.md#backtesting-system-performance)
 
 
 <pre>
