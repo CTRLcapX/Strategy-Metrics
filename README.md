@@ -1,10 +1,7 @@
-# Strategy-Metrics
-CME Futures Trading Metrics
+# CONTENTS
 
 ###### [1. Live Performance](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/1.%20Live%20Performance%20Data.md#cme-futures-live-performance)
-
-
-###### [MCL LIVE TRADING BLOTTER - CME](https://github.com/user-attachments/files/17710813/_mcl_system_blotter.csv)
+> [MCL LIVE TRADING BLOTTER - CME](https://github.com/user-attachments/files/17710813/_mcl_system_blotter.csv)
 
 ![image020](https://github.com/user-attachments/assets/afbb9650-4ced-4dc9-8a01-7f3ad6d16f11)
 
