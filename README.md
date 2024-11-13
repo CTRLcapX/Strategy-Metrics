@@ -27,3 +27,6 @@
 ###### [4. Signal Processing](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#4--signal-only-mode)
     
 ![image](https://github.com/user-attachments/assets/a79ece82-f7ee-4fe5-a6a9-7e06996a7cfd)
+
+
+[Review 4. Signal Processing](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#ref-7-probability-of-intercept-p19)
