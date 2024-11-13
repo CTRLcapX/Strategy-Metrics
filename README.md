@@ -30,4 +30,4 @@ For more infomation, please contact me directly via email at CTRLCAPX@OUTLOOK.CO
     
 ![image](https://github.com/user-attachments/assets/a79ece82-f7ee-4fe5-a6a9-7e06996a7cfd)
 
-###### [see also: “Relative Guidance System” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#ref-7-probability-of-intercept-p19)
+###### [see also: “Relative Guidance System” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#11112024)
