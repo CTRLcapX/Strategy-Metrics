@@ -1,11 +1,12 @@
 # CONTENTS
 
-###### [i. LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE CAP U.S. EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+###### [&nbsp;i. &ensp;  AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
 
-###### [ii. LOW-LATENCY AT TRADING SYSTEMS IN U.S. FUTURES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
+###### [ii. &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
 
-For more infomation, please contact me directly via email at CTRLCAPX@OUTLOOK.COM
+</br>
 
+## i. &ensp; AUTONOMOUS FUTURES TRADING SYSTEMS
    
 ###### [1.&ensp; Backtesting Outputs](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/1.%20Backtesting%20Blotter.md#1--backtesting-system-performance)
 
@@ -25,7 +26,6 @@ For more infomation, please contact me directly via email at CTRLCAPX@OUTLOOK.CO
 ![image](https://github.com/user-attachments/assets/7851b6da-3031-4161-b298-3dc105ced002)
 
 
-
 ###### [3. Hyperplane Mechanics](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/3.%20Hyperplane%20Mechanics.md#hyperplane-mechanics)
 
 ![image](https://github.com/user-attachments/assets/bb696884-46e9-4db2-9025-90ae8dd3910e)
@@ -36,3 +36,5 @@ For more infomation, please contact me directly via email at CTRLCAPX@OUTLOOK.CO
 ![image](https://github.com/user-attachments/assets/a79ece82-f7ee-4fe5-a6a9-7e06996a7cfd)
 
 ###### [see also: “Relative Guidance System” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#11112024)
+
+For more infomation, please contact me directly via email at CTRLCAPX@OUTLOOK.COM
