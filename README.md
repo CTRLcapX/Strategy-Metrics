@@ -4,8 +4,13 @@
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
-
+###### &ensp; &ensp; &ensp; &ensp; &nbsp;  For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br>  &ensp; &ensp; &ensp; &ensp; &nbsp;  Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
 </br>
+
+
+
+
+
 
 ###### ---
 
@@ -47,4 +52,8 @@
 
 ###### [see also: “Relative Guidance System” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#11112024)
 
-For more infomation, please contact me directly via email at CTRLCAPX@OUTLOOK.COM
+
+
+---
+
+###### For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
