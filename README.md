@@ -4,7 +4,7 @@
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
-###### &ensp; &ensp; &ensp; Granular quality assurance and live trade results for all AT/ HFT SYSTEMS are all available on request. </br>   &ensp; &ensp; &ensp; Contact my Agent at [917-656-5697](tel:19176565697), or email me directly via CTRLCAPX@OUTLOOK.COM for more information.
+###### &ensp; &ensp; &ensp; Granular quality assurance and live trade results for all AT/ HFT SYSTEMS are all available on request. </br>  </br>  &ensp; &ensp; &ensp; Contact my Agent at [917-656-5697](tel:19176565697), or email me directly via CTRLCAPX@OUTLOOK.COM for more information.
 </br>
 
 
