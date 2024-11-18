@@ -8,11 +8,7 @@
 </br>
 
 
-
-
-
-
-###### ---
+## <autonomous Futures Trading Systems in outright CL GC ES NQ YM ZB ZN E6 and their Micro Contracts>
 
 
 ###### [&nbsp;i. &ensp;  AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
@@ -50,10 +46,12 @@
     
 ![image](https://github.com/user-attachments/assets/a79ece82-f7ee-4fe5-a6a9-7e06996a7cfd)
 
-###### [see also: “Relative Guidance System” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#11112024)
-
-
-
----
-
+## <contact information>
 ###### For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
+
+
+</br>
+
+</br>
+    
+###### [see also:&ensp; “Relative Guidance” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#11112024)
