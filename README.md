@@ -59,4 +59,4 @@
 
 </br>
     
-###### [see also:&ensp; “Relative Guidance” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#11112024)
+###### [see also:&ensp; “Relative Guidance” Results](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#set-to-signal-only-on-or-around-932024)
