@@ -33,11 +33,6 @@
 ## <live performance data>
 ###### [2. Live Performance](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Live%20Performance%20Data.md#2--cme-futures-live-performance)
 
-![image](https://github.com/user-attachments/assets/9481c5a7-bfe2-4d58-a232-5ecb866e7995)
-
-
-</br>
-
 ![image](https://github.com/user-attachments/assets/7851b6da-3031-4161-b298-3dc105ced002)
 
 ## <Hyperplane Mechanics>
