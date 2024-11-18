@@ -1,5 +1,13 @@
 # CONTENTS
 
+#### [&nbsp;I. &ensp; 2024 COVER LETTER ](https://github.com/user-attachments/files/17799460/DINCER2024_COVER_PAGE.pdf)
+#### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799460/DINCER2024_COVER_PAGE.pdf)
+
+</br>
+
+###### ---
+
+
 ###### [&nbsp;i. &ensp;  AUTONOMOUS FUTURES TRADING SYSTEMS](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/README.md#1-backtesting-outputs)
 
 ###### [ii. &ensp; LOW-LATENCY AT/ HFT TRADING SYSTEMS ENGINEERING IN LARGE-CAP EQUITIES](https://github.com/CTRLcapX/2023-LARGE-CAP-AT/tree/main#10-system-development-for-at--hft-systems-in-equities)
