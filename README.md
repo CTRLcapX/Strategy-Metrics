@@ -18,7 +18,8 @@
 </br>
 
 ## i. &ensp; AUTONOMOUS FUTURES TRADING SYSTEMS
-   
+
+## <backtesting data>
 ###### [1.&ensp; Backtesting Outputs](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/1.%20Backtesting%20Blotter.md#1--backtesting-system-performance)
 
 
@@ -29,6 +30,7 @@
 ![image](https://github.com/user-attachments/assets/906400fd-936b-4728-bce9-f7a82ffaed0f)
 
 
+## <live performance data>
 ###### [2. Live Performance](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/2.%20Live%20Performance%20Data.md#2--cme-futures-live-performance)
 
 ![image](https://github.com/user-attachments/assets/9481c5a7-bfe2-4d58-a232-5ecb866e7995)
@@ -38,15 +40,21 @@
 
 ![image](https://github.com/user-attachments/assets/7851b6da-3031-4161-b298-3dc105ced002)
 
-
+## <Hyperplane Mechanics>
 ###### [3. Hyperplane Mechanics](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/3.%20Hyperplane%20Mechanics.md#hyperplane-mechanics)
 
 ![image](https://github.com/user-attachments/assets/bb696884-46e9-4db2-9025-90ae8dd3910e)
 
-
+## <signal processing>
 ###### [4. Signal Processing](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/4.%20Signal%20Mode.md#4--signal-only-mode)
     
 ![image](https://github.com/user-attachments/assets/a79ece82-f7ee-4fe5-a6a9-7e06996a7cfd)
+
+## <supplements>
+
+
+
+
 
 ## <contact information>
 ###### For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
