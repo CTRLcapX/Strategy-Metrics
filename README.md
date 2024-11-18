@@ -52,7 +52,11 @@
 
 
 ## <contact information>
-###### For granular quality assurance test results and live trade blotter outputs for these AT/ HFT SYSTEMS. </br> Please contact my Agent at [917-656-5697](tel:19176565697) or email me directly via CTRLCAPX@OUTLOOK.COM
+
+
+
+###### &ensp; &ensp; &ensp; Granular quality assurance and live trade results for all AT/ HFT SYSTEMS are all available on request. </br>  </br>  &ensp; &ensp; &ensp; Contact my Agent at [917-656-5697](tel:19176565697), or email me directly via CTRLCAPX@OUTLOOK.COM for more information.
+</br>
 
 
 </br>
