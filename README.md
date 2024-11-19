@@ -4,7 +4,7 @@
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
-###### [III. &ensp; Philanthropy and Youth Programs in C++, Python, and Robotics Engineering ](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#robolink-drone-engineering)
+###### [III. &ensp; Philanthropy and Youth Programs in C++, Python, and Robotics Engineering ](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#fix-programming-resources)
 
 </br>
 
