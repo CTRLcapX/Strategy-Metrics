@@ -17,6 +17,9 @@
 
 ###### [&nbsp;&nbsp;I. &ensp;  Program and Curriculum Design, Professor at Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#graduate-programs)
 
+<!-- CURRICULUM  https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management -->
+<!-- GRADES https://github.com/ions29/cpp-reading-material/tree/main/00.%20Ionis%20School%20of%20Technology%20and%20Management/Gradebook -->
+
 ###### [&nbsp;II. &ensp; FIX Programming](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#fix-programming-resources)
 
 
