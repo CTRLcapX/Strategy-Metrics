@@ -4,8 +4,20 @@
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
 
+###### [III. &ensp; Philanthropy and Youth Programs in C++, Python, and Robotics Engineering ](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#robolink-drone-engineering)
+
+</br>
+
 ###### &ensp; &ensp; &ensp; Granular quality assurance and live trade results for all AT/ HFT SYSTEMS are all available on request. </br>  </br>  &ensp; &ensp; &ensp; Contact my Agent at [917-656-5697](tel:19176565697), or email me directly via CTRLCAPX@OUTLOOK.COM for more information.
 </br>
+
+
+
+## <professor of Financial Engineering in Windows and Linux OS>
+
+###### [&nbsp;&nbsp;I. &ensp;  Program and Curriculum Design, Professor at Ionis School of Technology and Management](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#graduate-programs)
+
+###### [&nbsp;II. &ensp; FIX Programming](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#fix-programming-resources)
 
 
 ## <autonomous Futures Trading Systems in outright CL GC ES NQ YM ZB ZN E6 and their Micro Contracts>
