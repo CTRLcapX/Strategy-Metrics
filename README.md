@@ -6,6 +6,9 @@
 
 ###### [III. &ensp; Philanthropy and Youth Programs in C++, Python, and Robotics Engineering ](https://github.com/ions29/cpp-reading-material/tree/main?tab=readme-ov-file#fix-programming-resources)
 
+###### [IV. &ensp; Professor of Financial Engineering in Linux / OS taught in Python, C#, and C++ ](https://github.com/ions29/cpp-reading-material/tree/main)
+
+
 </br>
 
 ###### &ensp; &ensp; &ensp; Granular quality assurance and live trade results for all AT/ HFT SYSTEMS are all available on request. </br>  </br>  &ensp; &ensp; &ensp; Contact my Agent at [917-656-5697](tel:19176565697), or email me directly via CTRLCAPX@OUTLOOK.COM for more information.
