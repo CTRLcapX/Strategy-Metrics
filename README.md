@@ -1,5 +1,12 @@
 # CONTENTS
 
+
+###### 1111122861 
+
+![IMG_3012](https://github.com/user-attachments/assets/8ba788d6-9747-45fb-b332-279c7f4c7374)
+
+
+
 #### [&nbsp;I. &ensp; 2024 COVER LETTER ](https://github.com/user-attachments/files/17799543/2024.COVER.LETTER.pdf)
 
 #### [II. &ensp; 2024 RESUME ](https://github.com/user-attachments/files/17799627/2024.RESUME.APPLICATION.FULL.pdf)
