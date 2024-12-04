@@ -1,7 +1,7 @@
 # CONTENTS
 
 
-###### [1111122861](https://github.com/CTRLcapX/Strategy-Metrics/tree/main)
+###### [1111122861](https://github.com/CTRLcapX/Strategy-Metrics/blob/main/6.%20Combine.md#cross-market-indicators)
 
 
 #### [&nbsp;I. &ensp; 2024 COVER LETTER ](https://github.com/user-attachments/files/17799543/2024.COVER.LETTER.pdf)
