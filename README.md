@@ -1,10 +1,7 @@
 # CONTENTS
 
 
-###### 1111122861 
-
-![IMG_3012](https://github.com/user-attachments/assets/8ba788d6-9747-45fb-b332-279c7f4c7374)
-
+###### [1111122861](https://github.com/CTRLcapX/Strategy-Metrics/tree/main)
 
 
 #### [&nbsp;I. &ensp; 2024 COVER LETTER ](https://github.com/user-attachments/files/17799543/2024.COVER.LETTER.pdf)
